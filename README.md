@@ -4,7 +4,7 @@
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/chat-socket.io.git
+git clone https://github.com/jst-manu/Chat-Application.git
 ```
 
 Step 2: cd into the cloned repo and run:
